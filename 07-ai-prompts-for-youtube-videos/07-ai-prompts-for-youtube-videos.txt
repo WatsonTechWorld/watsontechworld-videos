@@ -1,0 +1,146 @@
+// This video was made for watsontechworld.com. © 2024
+// https://watsontechworld.com
+// for a video
+
+Note: You can adjust the word “YouTube” for any other major video site such as TikTok, Rumble, Kakao, Naver, Odysee, LinkedIn, Facebook etc. 
+The prompts should work similarly. Or you could just make a YouTube title, and just copy the same title, description, etc to other sites.
+
+####################
+General title idea prompts (no transcript)
+General form
+I am making a video about X. Give me ideas of titles that are highly relevant with high search volume.
+
+Example
+
+I am making a video about how to disable comments in WordPress.Give me ideas of titles that are highly relevant with high search volume.
+
+
+####################
+General description idea prompts (no transcript)
+General form
+I am making a video about X. Give me ideas of descriptions that are highly relevant with high search volume.
+
+Example
+
+I am making a video about how to disable comments in WordPress. Give me ideas of descriptions that are highly relevant with high search volume.
+
+
+####################
+Hashtag idea prompts (with title and description)
+General form
+
+I have the following title and description. I want you to come up with highly relevant hashtags with high search volume.
+
+Title:
+ENTER YOUR TITLE
+
+Description:
+ENTER YOUR DESCRIPTION
+
+Example 1
+
+I have the following title and description. I want you to come up with highly relevant hashtags with high search volume.
+
+
+Title:
+Parque de la Familia, Santiago, Chile 🌳🌞🇨🇱
+
+Description:
+
+I show you a wonderful park called Parque de la Familia in Santiago, Chile. It includes beautiful mountain views of the Andes mountains, a huge human or troll sculpture in the park.
+
+
+Example 2
+I have the following title and description. I want you to come up with highly relevant hashtags with high search volume.
+
+
+Title:
+Flying from Armenia to Bogota. P1 ✈️🇨🇴
+
+Description:
+
+I show you flying on a plane from Armenia, Colombia to Bogota, Colombia.
+
+
+##############################################################
+
+Emojis ideas prompts 1
+General form
+
+Recommend some good and highly relevant emojis to use with the following title for a YouTube video:
+ENTER YOUR TITLE
+
+Example
+
+Recommend some good and relevant emojis to use with the following title for a YouTube video:
+“Parque de la Familia, Santiago, Chile”
+
+
+##############################################################
+
+If you have the transcript. Title, description, hashtags, thumbnail text and more.
+
+I highly recommend using noota.io to extract transcripts of a video. I use it a lot and it saves me a ton of time for making YouTube titles, descriptions and so on. 
+My affiliate link for Noota is 
+https://watsontechworld.com/noota
+
+
+##############################################################
+
+YT TITLE PROMPT WITH TRANSCRIPT
+
+Below is a transcript for a youtube video. I want you to look at the transcript and come up with some good and highly relevant title ideas for a youtube video.
+
+PASTE CONTENT
+
+
+##############################################################
+
+YT DESCRIPTION PROMPT WITH TRANSCRIPT
+
+Below is a transcript for a youtube video. I want you to look at the transcript and come up with some good and highly relevant description ideas for a youtube video.
+
+PASTE CONTENT
+
+
+##############################################################
+
+YT hashtags PROMPT WITH TRANSCRIPT
+
+
+Below is a transcript for a youtube video. I want you to come up with a list of highly relevant hashtags with high search volume for a youtube video. Show me each hashtag and its estimated monthly search volume.
+
+PASTE CONTENT
+
+##############################################################
+
+YT Thumbnail text PROMPT WITH TRANSCRIPT
+
+Below is a transcript for a youtube video. I want you to look at the transcript and come up with some good and highly text ideas to put on thumbnails for a youtube video. Make sure it is good and not too much text, but good for a thumbnail.
+
+PASTE CONTENT
+
+##############################################################
+
+PROMPT FOR making shorter title
+Below is a title I have for a YouTube video. But the title is too long. Suggest some other titles that are 40 bytes or less.
+
+Title:
+ENTER YOUR TITLE
+
+Example
+Below is a title I have for a YouTube video. But the title is too long. Suggest some other titles that are 40 bytes or less.
+“Walking to An Airplane at the Airport in Armenia, Colombia”
+
+
+
+Example output it might get:
+Here are some shorter title options, each 40 bytes or less:
+
+1. **"Walking to the Plane in Armenia, Colombia"**
+2. **"Boarding a Plane in Armenia, Colombia"**
+3. **"Walking to a Plane in Armenia Airport"**
+4. **"Heading to an Airplane in Armenia"**
+5. **"Boarding at Armenia Airport, Colombia"**
+
+These options maintain the key details while keeping the title concise.
