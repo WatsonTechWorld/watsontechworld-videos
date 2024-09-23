@@ -116,7 +116,7 @@ PASTE CONTENT
 
 YT Thumbnail text PROMPT WITH TRANSCRIPT
 
-Below is a transcript for a youtube video. I want you to look at the transcript and come up with some good and highly text ideas to put on thumbnails for a youtube video. Make sure it is good and not too much text, but good for a thumbnail.
+Below is a transcript for a youtube video. I want you to look at the transcript and come up with some good and highly relevant thumbnail text ideas to put on thumbnails for a youtube video. Make sure it is good and not too much text, but good for a thumbnail.
 
 PASTE CONTENT
 
