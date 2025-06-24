@@ -1,2 +1,2 @@
 # watsontechworld-videos
-Some additional information for videos I make
+Files and more for videos I make
