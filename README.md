@@ -1,6 +1,6 @@
 # watsontechworld-videos
 Files and more for videos I make
-https://watsontechworld.com
+<a href="https://watsontechworld.com" target="_blank">https://watsontechworld.com</a>
 
 Find most the places we post our videos and more 👇
-https://watsontechworld.com/social-media/
+<a href="https://watsontechworld.com/social-media/" target="_blank">https://watsontechworld.com/social-media/</a>
